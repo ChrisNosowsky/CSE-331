@@ -1,0 +1,32 @@
++The root will be dropped
++India
++Charlie
++Yankee
++delta
++Mike
++alfa
++Oscar
++whiskey
++This shall be dropped
++Victor
++hotel
++sierra
++Zulu
++papa
+-This isn't in the set
++Romeo
++bravo
++golf
++Quebec
++x-ray
+-This shall be dropped
++November
++tango
++kilo
++Lima
++foxtrot
++Sierra
++echo
+-The root will be dropped
++Juliett
++uniform
